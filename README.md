@@ -1,5 +1,7 @@
 Forked to make a joke about integer division.
 
+![](./plot.png)
+
 Orinal comments below:
 
 ----
@@ -13,4 +15,3 @@ The data used in this script was found in https://gist.githubusercontent.com/bor
 
 I also thank the inspiration provided by https://www.r-bloggers.com/recreating-unknown-pleasures-graphic/
 
-![](./plot.png)
