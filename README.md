@@ -1,3 +1,11 @@
+Forked to make a joke about integer division.
+
+![](./plot.png)
+
+Orinal comments below:
+
+----
+
 # unknown_pleasures_plot
 Jupyter notebook with code and visualization plot of the cover of Joy Division's Unknown Pleasures (1979) using Python/Matplotlib
 
@@ -7,4 +15,3 @@ The data used in this script was found in https://gist.githubusercontent.com/bor
 
 I also thank the inspiration provided by https://www.r-bloggers.com/recreating-unknown-pleasures-graphic/
 
-![](./plot.png)
