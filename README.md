@@ -2,7 +2,7 @@ Forked to make a joke about integer division.
 
 ![](./plot.png)
 
-Orinal comments below:
+Original comments below:
 
 ----
 
